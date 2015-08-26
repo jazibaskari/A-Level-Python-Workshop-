@@ -1,2 +1,2 @@
-github-pages
+gen 'github-pages'
 bundle install 
