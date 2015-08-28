@@ -1,6 +1,10 @@
+---
+layout: page 
+root: . 
+topic: A Level Python Workshop 
+---
 
-
-# A Level Python Workshop ![Python logo](python-logo-small.gif)
+![Python logo](python-logo-small.gif)
 -------------------------------------------------------------------------------------------
 
 
